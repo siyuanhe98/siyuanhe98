@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **he.siyua@northeastern.edu**
 
-- 📄 **Know about my experiences:** I am passionate about developing innovative solutions and continuously expanding my knowledge and skillset. My extensive project experience has allowed me to create compelling software solutions that meet user needs and exceed expectations. During my recent internship, I led the design and development of a recommendation system utilizing JavaScript and Node.js, which generated daily videos for users. 
+- 📄 I am a passionate software developer dedicated to creating innovative solutions and continually expanding my knowledge and skillset. With extensive project experience, I have consistently delivered compelling software solutions that address user needs and exceed expectations. As a driven and determined individual, I am committed to fostering both personal and professional growth.
+- Eager to join a dynamic team, I am excited about the opportunity to continue learning and growing while contributing to the development of cutting-edge software solutions. During my recent internship, I designed and developed a content-based filtering recommendation system using Node.js and JavaScript, which establishes an asynchronous pipeline to update videos for the For You timeline on a short-form video social media platform.
+- I am confident that my passion, determination, and expertise will make me a valuable asset to any team and project I undertake.
 
 
 <h3 align="left">Connect with me:</h3>
