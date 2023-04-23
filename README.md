@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **he.siyua@northeastern.edu**
 
-- 📄 **Know about my experiences:** I am passionate about developing innovative solutions and continuously expanding my knowledge and skillset. My expertise in full-stack web application development, coupled with my extensive project experience, has allowed me to create compelling software solutions that meet user needs and exceed expectations. During my recent internship, I led the design and development of a recommendation system utilizing JavaScript and Node.js, which generated daily videos for users. 
-In addition to my technical skills, I possess exceptional communication and leadership abilities. As a former team leader in a school organization, I understand the importance of teamwork and have developed effective communication and leadership skills that will enable me to work collaboratively with others and lead teams to success. 
+- 📄 **Know about my experiences:** I am passionate about developing innovative solutions and continuously expanding my knowledge and skillset. My extensive project experience has allowed me to create compelling software solutions that meet user needs and exceed expectations. During my recent internship, I led the design and development of a recommendation system utilizing JavaScript and Node.js, which generated daily videos for users. 
+- In addition to my technical skills, I possess exceptional communication and leadership abilities. As a former team leader in a school organization, I understand the importance of teamwork and have developed effective communication and leadership skills that will enable me to work collaboratively with others and lead teams to success. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
