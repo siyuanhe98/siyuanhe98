@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siyuan He</h1>
-<h3 align="center">A Full Stack Web Developer/Mobile App Developer and Graduate Student at Northeastern University</h3>
+<h3 align="center">A Full Stack Web Developer, Software Development Engineer, and Graduate Student at Northeastern University</h3>
 
 - 📫 How to reach me **he.siyua@northeastern.edu**
 
