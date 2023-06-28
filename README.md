@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siyuan He</h1>
 <h3 align="center">A Full Stack Web Developer, Software Development Engineer, and Graduate Student at Northeastern University</h3>
 
+- 🔶 I am an enthusiastic and experienced Software Developer with a robust background in designing and developing innovative software solutions. I help companies build highly scalable and robust products.
+
+- 🔶 I have been actively involved in developing new business features for a high-concurrency e-commerce platform during my ongoing internship. With a keen focus on improving scalability and performance, I have been assisting in migrating monolithic systems to a microservices architecture using Spring Cloud, Redis, and RocketMQ, resulting in a 30% increase in scalability and a significant boost in server performance. My agile work experience, combined with proficiency in Spring Boot, RESTful APIs, MySQL, and project management tools like Bitbucket and Jira, has been enabling me to make substantial contributions to the team's objectives.
+
+- 🔶 As the primary architect at Diall, I spearheaded the design, development, and testing of a recommendation algorithm that delivers videos for the "For You" timeline. I implemented a content-based filtering algorithm using JavaScript and Node.js to establish an asynchronous pipeline to update recommendations, resulting in a 22% increase in video completion rates and a 75% user satisfaction rate. My work led to the project being completed two weeks ahead of schedule, emphasizing the potential of my skills to enhance user experiences and drive business success.
+
+- 🔶 With a commitment to continuous learning and a dedication to excellence, I am eager to contribute my expertise to a dynamic team while advancing my own professional growth. Let's connect and explore how I can contribute to your next breakthrough project!
+
 - 📫 How to reach me **he.siyua@northeastern.edu**
-
-- 📄 I am an enthusiastic and experienced Software Developer with a robust background in designing and developing innovative software solutions. I help companies build highly scalable and robust products.
-
-- 📄 I have been actively involved in developing new business features for a high-concurrency e-commerce platform during my ongoing internship. With a keen focus on improving scalability and performance, I have been assisting in migrating monolithic systems to a microservices architecture using Spring Cloud, Redis, and RocketMQ, resulting in a 30% increase in scalability and a significant boost in server performance. My agile work experience, combined with proficiency in Spring Boot, RESTful APIs, MySQL, and project management tools like Bitbucket and Jira, has been enabling me to make substantial contributions to the team's objectives.
-
-- 📄 As the primary architect at Diall, I spearheaded the design, development, and testing of a recommendation algorithm that delivers videos for the "For You" timeline. I implemented a content-based filtering algorithm using JavaScript and Node.js to establish an asynchronous pipeline to update recommendations, resulting in a 22% increase in video completion rates and a 75% user satisfaction rate. My work led to the project being completed two weeks ahead of schedule, emphasizing the potential of my skills to enhance user experiences and drive business success.
-
-- 📄 With a commitment to continuous learning and a dedication to excellence, I am eager to contribute my expertise to a dynamic team while advancing my own professional growth. Let's connect and explore how I can contribute to your next breakthrough project!
-
 
 
 <h3 align="left">Connect with me:</h3>
