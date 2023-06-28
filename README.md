@@ -3,8 +3,13 @@
 
 - 📫 How to reach me **he.siyua@northeastern.edu**
 
-- 📄 I am a passionate software developer dedicated to creating innovative solutions and continually expanding my knowledge and skillset. With extensive project experience, I have consistently delivered compelling software solutions that address user needs and exceed expectations. As a driven and determined individual, I am committed to fostering both personal and professional growth. I am confident that my passion, determination, and expertise will make me a valuable asset to any team and project I undertake.
-- Eager to join a dynamic team, I am excited about the opportunity to continue learning and growing while contributing to the development of cutting-edge software solutions. During my recent internship, I designed and developed a content-based filtering recommendation system using Node.js and JavaScript, which establishes an asynchronous pipeline to update videos for the For You timeline on a short-form video social media platform.
+- 📄 I am an enthusiastic and experienced Software Developer with a robust background in designing and developing innovative software solutions. I help companies build highly scalable and robust products.
+
+- 📄 I have been actively involved in developing new business features for a high-concurrency e-commerce platform during my ongoing internship. With a keen focus on improving scalability and performance, I have been assisting in migrating monolithic systems to a microservices architecture using Spring Cloud, Redis, and RocketMQ, resulting in a 30% increase in scalability and a significant boost in server performance. My agile work experience, combined with proficiency in Spring Boot, RESTful APIs, MySQL, and project management tools like Bitbucket and Jira, has been enabling me to make substantial contributions to the team's objectives.
+
+- 📄 As the primary architect at Diall, I spearheaded the design, development, and testing of a recommendation algorithm that delivers videos for the "For You" timeline. I implemented a content-based filtering algorithm using JavaScript and Node.js to establish an asynchronous pipeline to update recommendations, resulting in a 22% increase in video completion rates and a 75% user satisfaction rate. My work led to the project being completed two weeks ahead of schedule, emphasizing the potential of my skills to enhance user experiences and drive business success.
+
+- 📄 With a commitment to continuous learning and a dedication to excellence, I am eager to contribute my expertise to a dynamic team while advancing my own professional growth. Let's connect and explore how I can contribute to your next breakthrough project!
 
 
 
