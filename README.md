@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siyuan He</h1>
 <h3 align="center">A Full Stack Web Developer, Software Development Engineer, and Graduate Student at Northeastern University</h3>
 
-- 🔶 I am an enthusiastic and experienced Software Developer with a robust background in designing and developing innovative software solutions. I help companies build highly scalable and robust products.
+ 🔶 As an experienced Software Developer, I bring an established track record of designing and implementing innovative software solutions. I excel at contributing to the development of scalable products and enhancing system performance, driving meaningful business results.
 
-- 🔶 I have been actively involved in developing new business features for a high-concurrency e-commerce platform during my ongoing internship. With a keen focus on improving scalability and performance, I have been assisting in migrating monolithic systems to a microservices architecture using Spring Cloud, Redis, and RocketMQ, resulting in a 30% increase in scalability and a significant boost in server performance. My agile work experience, combined with proficiency in Spring Boot, RESTful APIs, MySQL, and project management tools like Bitbucket and Jira, has been enabling me to make substantial contributions to the team's objectives.
+ 🔶 During my previous internship in Toronto, I played an integral role in developing business features for a high-concurrency e-commerce platform. My key focus was on amplifying scalability and performance through the migration of monolithic systems to a distributed microservices architecture using Spring Cloud, Consul, Redis, and RocketMQ. This strategic shift led to a 30% improvement in scalability and a notable boost in server performance. I utilized my proficiency in Java, Spring Boot, RESTful APIs, MySQL, JUnit, and project management tools like Bitbucket and Jira to accelerate the achievement of our team's objectives. 
 
-- 🔶 As the primary architect at Diall, I spearheaded the design, development, and testing of a recommendation algorithm that delivers videos for the "For You" timeline. I implemented a content-based filtering algorithm using JavaScript and Node.js to establish an asynchronous pipeline to update recommendations, resulting in a 22% increase in video completion rates and a 75% user satisfaction rate. My work led to the project being completed two weeks ahead of schedule, emphasizing the potential of my skills to enhance user experiences and drive business success.
+ 🔶 As the primary architect at Diall in Los Angeles, I spearheaded the design, development, and testing of a recommendation engine for the "For You" timeline. Using JavaScript and Node.js, I implemented a content-based filtering algorithm and established an asynchronous pipeline to update recommendations. The outcome was a significant 22% increase in video completion rates. My redesign of the iOS app resulted in an 18% decrease in user churn, a key contribution to our customer retention strategy. The successful integration of AWS S3 for cloud storage and automated deployments via GitLab CI/CD and AWS CodeDeploy culminated in project completion two weeks ahead of schedule, underlining my capabilities in enhancing user experiences and driving business success.
 
-- 🔶 With a commitment to continuous learning and a dedication to excellence, I am eager to contribute my expertise to a dynamic team while advancing my own professional growth. Let's connect and explore how I can contribute to your next breakthrough project!
+ 🔶 With a commitment to continuous learning and a dedication to excellence, I am eager to contribute my expertise to a dynamic team while advancing my own professional growth. Let's connect and explore how I can contribute to your next breakthrough project!
 
-- 📫 How to reach me **he.siyua@northeastern.edu**
+ 📫 How to reach me **he.siyua@northeastern.edu**
 
 
 <h3 align="left">Connect with me:</h3>
